@@ -134,7 +134,7 @@ const CodeEditor = () => {
         setOutput([]);
     };
     return (
-        <div className="w-full max-w-8xl mx-auto p-4 h-full flex">
+        <div className="w-full max-w-8xl mx-auto p-4 h-full">
             <Card className="mb-4" style={{ backgroundColor: "gray" }}>
                 <div className="p-4">
                     <div className="mb-4">
